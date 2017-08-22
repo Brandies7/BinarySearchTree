@@ -1,0 +1,2 @@
+c:\users\adanb\documents\visual studio 2015\Projects\MyBinaryTree\MyBinaryTree\bin\Debug\MyBinaryTree.exe.config
+C:\Users\adanb\Desktop\devCodeCamp\MyBinaryTree\MyBinaryTree\bin\Debug\MyBinaryTree.exe.config
