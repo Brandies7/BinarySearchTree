@@ -1,2 +1,7 @@
 c:\users\adanb\documents\visual studio 2015\Projects\MyBinaryTree\MyBinaryTree\bin\Debug\MyBinaryTree.exe.config
 C:\Users\adanb\Desktop\devCodeCamp\MyBinaryTree\MyBinaryTree\bin\Debug\MyBinaryTree.exe.config
+C:\Users\adanb\Desktop\devCodeCamp\MyBinaryTree\MyBinaryTree\bin\Debug\MyBinaryTree.exe
+C:\Users\adanb\Desktop\devCodeCamp\MyBinaryTree\MyBinaryTree\bin\Debug\MyBinaryTree.pdb
+C:\Users\adanb\Desktop\devCodeCamp\MyBinaryTree\MyBinaryTree\obj\Debug\MyBinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\adanb\Desktop\devCodeCamp\MyBinaryTree\MyBinaryTree\obj\Debug\MyBinaryTree.exe
+C:\Users\adanb\Desktop\devCodeCamp\MyBinaryTree\MyBinaryTree\obj\Debug\MyBinaryTree.pdb
